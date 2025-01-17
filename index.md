@@ -10,4 +10,4 @@ show_call_box: false
 
 # Sirenia
 
-Sirenia LLC is an app development studio and consultancy
+Sirenia LLC is an app development studio and consultancy.

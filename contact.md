@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: contact
-description: Contact
+description: Support
 ---
 
-We always welcome feedback. Send us an email, and we'll get back to you as quickly as possible.
+Please contact us via email for general inquiries or support for any of our applications. We'll get back to you as soon as possible.

@@ -1,2 +1,4 @@
-email: 'info@sireniallc.com'
+email:
+  contact: 'info@sireniallc.com'
+  support: 'support@sireniallc.com'
 contact_button_link: 'contact'
