@@ -13,7 +13,7 @@ intro_image_hide_on_mobile: false
 
 **1. Acceptance of Terms**
 
-Welcome to Scripture Sprouts! These Terms of Service ("Terms") constitute a legally binding agreement between you ("User" or "you") and Sirenial LLC ("Sirenial," "we," "us," or "our") regarding your use of the Scripture Sprouts mobile application and any related services (collectively, the "Application").
+Welcome to Scripture Sprouts! These Terms of Service ("Terms") constitute a legally binding agreement between you ("User" or "you") and Sirenia LLC ("Sirenia," "we," "us," or "our") regarding your use of the Scripture Sprouts mobile application and any related services (collectively, the "Application").
 
 **By accessing or using the Application, you acknowledge that you have read, understood, and agree to be bound by these Terms and our [Privacy Policy](/scripture-sprouts-pp/), which is incorporated herein by reference.** If you do not agree to these Terms or the Privacy Policy, you must not access or use the Application.
 
@@ -34,4 +34,4 @@ Access to certain features of the Application may require you to create an accou
 **4. User-Generated Content (UGC)**
 
 * **Ownership:** You retain ownership of the original content you create or submit within the Application, such as personal notes or prompts entered into chat features ("User-Generated Content" or "UGC").
-* **License Grant:** By creating or submitting UGC, you grant Sirenial LLC a non-exclusive, royalty-free, worldwide, sublicensable license to use, reproduce, modify (e.g., for technical formatting), display
+* **License Grant:** By creating or submitting UGC, you grant Sirenia LLC a non-exclusive, royalty-free, worldwide, sublicensable license to use, reproduce, modify (e.g., for technical formatting), display

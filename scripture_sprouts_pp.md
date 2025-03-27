@@ -13,7 +13,7 @@ intro_image_hide_on_mobile: false
 
 ## 1. Our Commitment to Your Privacy
 
-Welcome to Scripture Sprouts! This Privacy Policy ("Policy") explains how Sirenial LLC ("we," "us," or "our") collects, uses, protects, and discloses information about users ("Users" or "you") of the Scripture Sprouts mobile application (the "Application"). We are committed to protecting your privacy. By using the Application, you agree to the collection and use of information in accordance with this Policy.
+Welcome to Scripture Sprouts! This Privacy Policy ("Policy") explains how Sirenia LLC ("we," "us," or "our") collects, uses, protects, and discloses information about users ("Users" or "you") of the Scripture Sprouts mobile application (the "Application"). We are committed to protecting your privacy. By using the Application, you agree to the collection and use of information in accordance with this Policy.
 
 ## 2. Information We Collect
 
@@ -76,5 +76,5 @@ We may update this Privacy Policy from time to time. We will notify you of any s
 
 ## 11. Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact Sirenial LLC at:
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact Sirenia LLC at:
 [info@sireniallc.com](mailto:info@sireniallc.com)
