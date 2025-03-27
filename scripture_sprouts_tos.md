@@ -7,50 +7,31 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-**Scripture Sprouts - Terms of Service**
+# Scripture Sprouts - Terms of Service
 
-**1. Agreement to Terms:**
+**Effective Date:** March 26, 2025
 
-* By accessing or using the Scripture Sprouts application ("Application"), you ("User") agree to be bound by these Terms of Service ("Terms"), which constitute a legally binding agreement.
-* If you do not agree with these Terms, you must cease all use of the Application.
+**1. Acceptance of Terms**
 
-**2. Service Description:**
+Welcome to Scripture Sprouts! These Terms of Service ("Terms") constitute a legally binding agreement between you ("User" or "you") and Sirenial LLC ("Sirenial," "we," "us," or "our") regarding your use of the Scripture Sprouts mobile application and any related services (collectively, the "Application").
 
-* The Application provides access to biblical texts, including the King James Version and World English Bible, and AI-generated interpretations for informational and devotional purposes.
-* AI-generated content is provided as opinion and should not be considered authoritative doctrine.
+**By accessing or using the Application, you acknowledge that you have read, understood, and agree to be bound by these Terms and our [Privacy Policy](/scripture-sprouts-pp/), which is incorporated herein by reference.** If you do not agree to these Terms or the Privacy Policy, you must not access or use the Application.
 
-**3. User Accounts and Data:**
+**Age Requirement:** The Application is intended solely for users who are 13 years of age or older. By using the Application, you represent and warrant that you meet this age requirement.
 
-* User accounts may be required for certain Application features.
-* We collect and securely store profile information and usage data.
-* We do not sell User data or use it for advertising.
-* User generated content, including notes and chat logs, are considered contributions to the application, and we maintain a perpetual license to utilize that data.
+**2. Description of Service**
 
-**4. Subscriptions and Payments:**
+The Application provides access to publicly available biblical texts (including the King James Version and World English Bible) and utilizes artificial intelligence ("AI") powered features, such as chat and commentary, to provide interpretations, explanations, and related content for informational and devotional purposes (the "Service").
 
-* In-app subscriptions are governed by Apple's App Store terms.
-* Refunds and cancellations are subject to Apple's policies.
+**AI Content Disclaimer:** AI-generated content is based on algorithms and data, provided for informational purposes only, and should be considered as opinion. **It is not intended to be, and should not be taken as, authoritative doctrine, theological advice, or a substitute for guidance from qualified religious leaders.**
 
-**5. Disclaimer of Warranties and Liability:**
+**Service Availability:** The Application is provided on an "AS IS" and "AS AVAILABLE" basis. We do not guarantee that the Service will always be available, uninterrupted, or error-free.
 
-* The Application is provided "as is" without warranties.
-* We do not warrant the accuracy or reliability of AI-generated content.
-* We are not liable for any damages arising from your use of the Application.
+**3. User Accounts**
 
-**6. Intellectual Property:**
+Access to certain features of the Application may require you to create an account, potentially using "Sign In with Apple." You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account. You agree to notify us immediately of any unauthorized use of your account.
 
-* Biblical texts are publicly available.
-* All other Application content is our property.
+**4. User-Generated Content (UGC)**
 
-**7. Governing Law:**
-
-* These Terms are governed by the laws of the United States.
-* Apple app store rules are also in effect.
-
-**8. Terms Changes:**
-
-* We may modify these Terms at any time.
-
-**9. Contact Information:**
-
-* For inquiries regarding these Terms, please contact: [info@sireniallc.com](mailto:info@sireniallc.com).
+* **Ownership:** You retain ownership of the original content you create or submit within the Application, such as personal notes or prompts entered into chat features ("User-Generated Content" or "UGC").
+* **License Grant:** By creating or submitting UGC, you grant Sirenial LLC a non-exclusive, royalty-free, worldwide, sublicensable license to use, reproduce, modify (e.g., for technical formatting), display
